@@ -1,5 +1,5 @@
 services:
-  syzkaller:
+  epa-evosuite:
     build: .
     container_name: javigod-epa-evosuite
     stdin_open: true 
